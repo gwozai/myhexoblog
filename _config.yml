@@ -110,7 +110,7 @@ copyright:
   mail: me@imlete.cn
   licenses: CC BY-NC-SA 4.0||https://creativecommons.org/licenses/by-nc-sa/4.0/ ## 其中||为分隔符，左侧为描述，右侧为版权许可
   description: 本博客所有文章除特别声明外，均采用||许可协议。转载请注明来自
-  title: Hexo-Theme-MengD(萌典)
+  title: MengD
 
 # 页脚
 footer:
